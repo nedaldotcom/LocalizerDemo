@@ -1,0 +1,6 @@
+#@LocalizerDemo_HostAddress = http://localhost:5173
+#
+#GET {{LocalizerDemo_HostAddress}}/weatherforecast/
+#Accept: application/json
+#
+####
